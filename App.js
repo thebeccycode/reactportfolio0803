@@ -1,11 +1,11 @@
 import React from 'react';
 import {Routes, Route} from 'react-router-dom';
 import { BrowserRouter } from 'react-router-dom';
-import Home from './components/navigation/Home';
-import About from './components/navigation/About';
-import Contact from './components/navigation/Contact';
-import Projects from './components/navigation/Projects';
-import Navbar from './components/navigation/Navbar';
+import Home from './reactportfolio/src/components/navigation/Home';
+import About from './reactportfolio/src/components/navigation/About';
+import Contact from './reactportfolio/src/components/navigation/Contact';
+import Projects from './reactportfolio/src/components/navigation/Projects';
+import Navbar from './reactportfolio/src/components/navigation/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
